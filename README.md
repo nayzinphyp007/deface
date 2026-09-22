@@ -1,2 +1,2 @@
 # deface
-web deface ghost
+web deface
